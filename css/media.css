@@ -1,0 +1,1237 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /* header navbar start*/
+  .navsecton {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .menu {
+    margin-left: -111px;
+  }
+  .logo {
+    font-size: 20px;
+  }
+  .navs {
+    padding-left: 117px !important;
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+  }
+  .toggle_buttons {
+    font-size: 17px !important;
+  }
+  .drop_icon {
+    margin-left: 122px;
+  }
+  .d_menu[data-bs-popper] {
+    top: -8px;
+    left: -22px;
+    margin-top: 0;
+    padding: 10px 10px !important;
+    border: none;
+  }
+  .d_btn {
+    margin-left: -3px !important;
+  }
+  .d_menu {
+    min-width: 19rem;
+  }
+  /* header navbar end*/
+  /* slider */
+  .slider {
+    padding-top: 78px;
+  }
+  .sli_con_box h1 {
+    font-size: 26px;
+  }
+  .sli_con_box p {
+    padding-right: 0px;
+    font-size: 14px;
+    padding-top: 8px !important;
+    padding-bottom: 15px !important;
+  }
+  .similar_heading h1 {
+    font-size: 18px;
+  }
+  .button {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+  }
+  .ccp span,
+  .ccn span {
+    font-size: 14px;
+  }
+  .ccp {
+    left: -6px;
+    margin-top: -41px;
+  }
+  .ccn {
+    right: 76px;
+    margin-top: -41px;
+  }
+  /* services */
+  .services_section {
+    padding-bottom: 20px;
+  }
+  .ser_single_item {
+    margin-bottom: 40px;
+    margin-right: 12px;
+    margin-left: 12px;
+  }
+  .s_p {
+    font-size: 16px;
+  }
+  .similar_heading h1 {
+    font-size: 25px;
+  }
+  .ser_highpen {
+    width: 2px;
+    height: 35px;
+  }
+  .ser_heading p {
+    padding-bottom: 50px;
+    font-size: 14px;
+  }
+  /* about section */
+  .about_cont_box {
+    text-align: center;
+  }
+  .about_cont_box h1 {
+    font-size: 25px;
+    padding-bottom: 10px;
+  }
+  .similar_heading h1 {
+    font-size: 18px;
+    padding-bottom: 0px;
+  }
+  .about_1st_p {
+    padding-bottom: 0px;
+    line-height: 27px;
+    font-size: 16px;
+  }
+  .about_2nd_p {
+    padding-bottom: 13px !important;
+    line-height: 27px;
+  }
+  .about_btnbx {
+    padding-bottom: 50px !important;
+  }
+  /* work activities */
+  .work_section {
+    padding-bottom: 20px;
+  }
+  .worksilimar {
+    padding-bottom: 33px;
+  }
+  .work_contbox ul li a {
+    font-size: 14px;
+    margin-right: -4px;
+  }
+  .work_contbox ul li:first-child a {
+    border: none;
+    padding: 0px;
+  }
+  .dogles {
+    margin-bottom: 29px !important;
+  }
+  .sin_img {
+    width: 100%;
+    padding-bottom: 19px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .overlay {
+    width: 399px;
+    font-size: 20px;
+    padding: 21px;
+  }
+  .none_bolt {
+    font-size: 16px;
+  }
+  /* service sec 2 */
+  .services_2sec {
+    padding-bottom: 20px;
+  }
+  .single_item {
+    padding-bottom: 30px;
+  }
+  .simi_sr2 {
+    padding-bottom: 20px !important;
+  }
+  .item_icon i {
+    font-size: 40px;
+    padding-top: 6px;
+  }
+
+  .heading h1 {
+    font-size: 16px;
+    padding-left: 76px !important;
+    margin-top: -18px !important;
+    padding-bottom: 14px !important;
+  }
+  .bot_content P {
+    font-size: 15px;
+    padding-bottom: 17px;
+    text-align: center;
+  }
+  .btm_heigpeen {
+    width: 100%;
+    height: 2px;
+    text-align: center;
+    /* margin-left: 44px; */
+  }
+  /* portfolio section */
+  .portfolio_sec {
+    padding-bottom: 35px !important;
+  }
+  .card_header {
+    margin-bottom: 110px;
+  }
+  .card_headings {
+  }
+  .bottom h1 {
+    font-size: 22px;
+    margin-bottom: 11px;
+    text-align: left;
+    margin-left: 60px;
+  }
+  .title {
+    font-size: 18px;
+    margin-left: 60px;
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  .simi_portfo {
+    padding-bottom: 15px;
+  }
+  /* card design */
+  .pricing_card_section {
+    padding-bottom: 3px;
+  }
+  .single_card_item {
+    margin-bottom: 36px;
+    margin-right: 11px !important;
+    margin-left: 11px;
+  }
+  .card_btn {
+    font-size: 13px;
+  }
+  /* nipro template */
+  .nip_tabplet {
+    margin-bottom: 40px;
+  }
+  .Nheading h1 {
+    font-size: 16px;
+    padding-left: 18px;
+    margin-top: -26px !important;
+    padding-bottom: 7px !important;
+  }
+  .niprotamplete_btn {
+    padding: 25px 0;
+    padding-left: 86px;
+  }
+  .nipro {
+    font-size: 13px;
+  }
+  /* btm slider */
+  .bootmsli_single_item {
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+  }
+  .bsliderbox img {
+    width: 100%;
+  }
+  .btm_carousel_section {
+    padding-bottom: 42px;
+  }
+  .bslider_content {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 17px;
+  }
+
+  .bslider_content h1 {
+    font-size: 15px !important;
+    padding-bottom: 0px;
+  }
+  .bslider_content h2 {
+    font-size: 14px;
+  }
+  .bsliderbox {
+    padding-top: 6px;
+    padding-left: 13px;
+    padding-bottom: 0px;
+    padding-right: 17px;
+  }
+  .bslider_content p {
+    font-size: 12px !important;
+    margin-bottom: 6px;
+  }
+  .bsli_p2 {
+    padding-bottom: 11px !important;
+  }
+  .bootm_slider_btn {
+    background-color: white;
+    width: 260px;
+    height: 37px;
+    color: black;
+    margin-top: -30px;
+    margin-left: 5%;
+    border: 0px solid #d4cbcb;
+  }
+  .priviousbtn {
+    left: 33%;
+    top: 97% !important;
+    transform: rotate(1deg);
+    text-transform: uppercase;
+  }
+  .priviousbtn span {
+    color: black;
+    font-size: 13px;
+  }
+  .nextbtn {
+    left: 48%;
+    top: 97% !important;
+    transform: rotate(1deg);
+    text-transform: uppercase;
+  }
+  .nextbtn span {
+    color: black;
+    font-size: 13px;
+  }
+  /* cantact */
+  .contact_form_section {
+    padding-bottom: 40px;
+    padding-top: 30px;
+  }
+  .contact_headi h1 {
+    font-size: 15px;
+  }
+  .contact_headi {
+    width: 105px;
+    margin-left: 76px;
+    margin-bottom: 25px;
+    margin-top: -29px;
+  }
+  .inputsec {
+    font-size: 13px;
+    margin-bottom: 27px;
+    padding: 9px 0px;
+  }
+  .contact_btn {
+    margin-left: 57px;
+    margin-bottom: 4px;
+  }
+  .cbtn {
+    font-size: 14px;
+  }
+  /* footer */
+  .f_t_p p {
+    padding: 0 0px;
+    font-size: 14px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+  }
+  .f_icons {
+    padding-left: 34px;
+    padding-bottom: 20px;
+  }
+  .icon_ul li a {
+    font-size: 14px;
+    padding: 5px;
+    margin-right: 11px;
+  }
+  .icon_ul li a i {
+    padding: 4px;
+  }
+  .allcon {
+    border-top: 1px solid white;
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  .fpbl {
+    padding-right: 14px;
+  }
+  .btm_row_left_p {
+    font-size: 13px;
+  }
+  .fpbr {
+    padding-top: 0px;
+    padding-left: 11px;
+    padding-bottom: 17px;
+  }
+  .fblicon_ul li a {
+    margin-left: 3px;
+    font-size: 13px;
+    padding: 6px;
+  }
+}
+
+/* Small devices (landscape phones,and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header navbar start*/
+  .logo {
+    font-size: 22px;
+  }
+  .menu {
+    padding-left: 227px;
+    padding-top: 10px;
+  }
+  .toggle_buttons {
+    font-size: 18px !important;
+  }
+  .drop_icon {
+    padding-top: 15px;
+    margin-left: 6px;
+  }
+  .d_menu[data-bs-popper] {
+    top: 10px;
+    left: -154px;
+    margin-top: 0;
+    padding: 10px 10px !important;
+    border: none;
+  }
+  .d_btn {
+    margin-left: -3px !important;
+  }
+  .d_menu {
+    min-width: 26rem;
+  }
+  /* header navbar end*/
+  /* slider */
+  .slider {
+    padding-top: 116px;
+  }
+  .sli_con_box h1 {
+    font-size: 36px;
+  }
+  .sli_con_box p {
+    padding-right: 52px;
+  }
+  .button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 15px;
+  }
+  .ccp {
+    left: -25px;
+  }
+  .ccn {
+    right: 170px;
+  }
+  .nar {
+    background-color: #333333 !important;
+    margin-left: 73px;
+    margin-top: -44px;
+  }
+  /* services */
+  .services_section {
+    padding-bottom: 40px;
+  }
+  .ser_single_item {
+    margin-bottom: 40px;
+  }
+  .s_p {
+    font-size: 15px;
+  }
+  .similar_heading h1 {
+    font-size: 33px;
+  }
+  .ser_heading p {
+    padding-bottom: 70px;
+    font-size: 15px;
+  }
+  /* about section */
+  .about_1st_p {
+    padding-bottom: 0px;
+    line-height: 27px;
+  }
+  .about_2nd_p {
+    padding-bottom: 18px !important;
+    line-height: 27px;
+  }
+  .sli_btn {
+    padding-bottom: 65px !important;
+  }
+  .about_cont_box h1 {
+    padding-bottom: 15px;
+    font-size: 28px;
+  }
+  /* work activities */
+  .work_section {
+    padding-bottom: 20px;
+  }
+  .similar_heading h1 {
+    font-size: 28px;
+  }
+  .work_contbox ul li a {
+    font-size: 15px;
+    margin-right: 22px;
+  }
+  .sin_img {
+    width: 162px;
+    padding-bottom: 19px;
+  }
+  .overlay {
+    width: 162px;
+  }
+  /* service sec 2 */
+  .services_2sec {
+    padding-bottom: 20px;
+  }
+  .card_header {
+    margin-top: 30px;
+  }
+  .simi_sr2 {
+    padding-bottom: 30px !important;
+  }
+  .item_icon i {
+    font-size: 40px;
+    padding-top: 6px;
+  }
+  .heading h1 {
+    font-size: 18px;
+    padding-left: 10px;
+    margin-top: -13px !important;
+    padding-bottom: 13px !important;
+    text-align: center !important;
+  }
+  .bot_content P {
+    font-size: 14px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  .btm_heigpeen {
+    width: 44%;
+    height: 2px;
+    text-align: center;
+    margin-left: 44px;
+  }
+  /* portfolio section */
+  .portfolio_sec {
+    padding-bottom: 90px !important;
+  }
+  .card_header {
+    margin-bottom: 56px;
+  }
+  .simi_portfo {
+    padding-bottom: 0px;
+  }
+  .bottom h1 {
+    font-size: 16px;
+    margin-bottom: 1px;
+  }
+  .title {
+    font-size: 13px;
+    margin-left: 67px;
+    margin-bottom: 7px;
+  }
+  .icons {
+    width: 63px;
+    height: 67px;
+    margin-top: 0px;
+    margin-left: -31px;
+  }
+  .icons li {
+    width: 55px;
+    height: 35px;
+  }
+  .icons li a i {
+    font-size: 18px;
+    padding: 10px;
+  }
+  .overlays {
+    bottom: 33px;
+    left: 0;
+    right: 0;
+    height: 71%;
+  }
+  .card_header:hover .overlays {
+    width: 17%;
+    height: 163px;
+  }
+  .simi_portfo {
+    padding-bottom: 15px;
+  }
+  /* card design */
+  .pricing_card_section {
+    padding-bottom: 8px;
+  }
+  .pricing_card_section {
+    padding-bottom: 30px;
+  }
+  .simi_card {
+    padding-bottom: 50px;
+  }
+  /* nipro tamplete */
+  .nip_tabplet {
+    margin-bottom: 33px;
+  }
+  .heading h1 {
+    font-size: 16px;
+    padding-left: 0px;
+  }
+  .niprotamplete_btn {
+    padding: 50px 0;
+    padding-left: 0px;
+  }
+  .heading {
+    float: left;
+    padding: 24px 0;
+  }
+  /* btm slider */
+  .btm_carousel_section {
+    padding-bottom: 42px;
+  }
+  .bslider_content h1 {
+    font-size: 15px;
+    padding-bottom: 6px;
+    margin: 0px;
+  }
+  .bslider_content h2 {
+    font-size: 14px;
+    padding-bottom: 3px;
+    margin: 0;
+  }
+  .bsliderbox {
+    padding-top: 12px;
+    padding-left: 11px !important;
+    padding-bottom: 7px;
+  }
+  .bslider_content p {
+    font-size: 12px !important;
+    padding-bottom: 3px;
+    margin-bottom: 0px;
+  }
+  .bsli_p2 {
+    padding-bottom: 11px !important;
+    padding-top: 5px;
+  }
+  .bslider_content {
+    padding-top: 10px !important;
+  }
+  .bslider_content {
+    padding: 0;
+  }
+  .bootm_slider_btn {
+    height: 238px;
+  }
+  .priviousbtn {
+    left: 87%;
+    top: -146px !important;
+    transform: rotate(89deg);
+    text-transform: uppercase;
+  }
+  .priviousbtn span {
+    color: black;
+    font-size: 13px;
+  }
+  .nextbtn {
+    top: 158px !important;
+    right: -11px !important;
+    transform: rotate(89deg);
+    text-transform: uppercase;
+  }
+  .nextbtn span {
+    color: black;
+    font-size: 13px;
+  }
+  .center_heigpeen {
+    margin-top: 121px;
+    margin-left: -1px;
+  }
+  .heigpeens {
+    width: 1px;
+    height: 14px;
+    margin-left: 6px;
+  }
+  /* cantact */
+  .contact_form_section {
+    padding-bottom: 40px;
+    padding-top: 30px;
+  }
+  .contact_headi h1 {
+    font-size: 20px;
+  }
+  .contact_headi {
+    width: 148px;
+    margin-left: 160px;
+    margin-bottom: 40px;
+  }
+  .inputsec {
+    font-size: 14px;
+    margin-bottom: 26px;
+  }
+  .contact_btn {
+    margin-left: 159px;
+    margin-bottom: 8px;
+  }
+  .cbtn {
+    font-size: 14px;
+  }
+  /* footer */
+  .f_t_p p {
+    padding: 0 0px;
+    font-size: 14px;
+    margin-bottom: 0px;
+  }
+  .f_icons {
+    padding-left: 128px;
+    padding-bottom: 35px;
+  }
+  .icon_ul li a {
+    font-size: 17px;
+    padding: 4px;
+    margin-right: 13px;
+  }
+  .icon_ul li a i {
+    padding: 4px;
+  }
+  .allcon {
+    border-top: 1px solid white;
+    padding-top: 35px;
+    padding-bottom: 0px;
+  }
+  .fpbl {
+    padding-right: 134px;
+  }
+  .btm_row_left_p {
+    font-size: 14px;
+  }
+  .fpbr {
+    padding-top: 0px;
+    padding-left: 132px;
+    padding-bottom: 18px;
+  }
+  .fblicon_ul li a {
+    margin-left: 2px;
+    font-size: 13px;
+    padding: 7px;
+  }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header navbar start*/
+  .menu {
+    padding-left: 329px;
+  }
+  .toggle_buttons {
+    font-size: 18px !important;
+  }
+  .drop_icon {
+    padding-top: 15px;
+    margin-left: 6px;
+  }
+  .d_menu[data-bs-popper] {
+    top: 10px;
+    left: -154px;
+    margin-top: 0;
+    padding: 10px 10px !important;
+    border: none;
+  }
+  .d_btn {
+    margin-left: -3px !important;
+  }
+  .d_menu {
+    min-width: 26rem;
+  }
+  /* header navbar end*/
+  /* slider */
+  .sli_con_box h1 {
+    font-size: 45px;
+  }
+  .sli_con_box p {
+    padding-right: 68px;
+  }
+  .button {
+    font-size: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+  .ccp {
+    left: -37px;
+  }
+  .ccn {
+    right: 268px;
+  }
+  .nar {
+    background-color: #333333 !important;
+    margin-left: 75px;
+    margin-top: -37px;
+  }
+  /* services */
+  .services_section {
+    padding-bottom: 40px;
+  }
+  .ser_single_item {
+    margin-bottom: 40px;
+  }
+  .s_p {
+    font-size: 17px;
+  }
+  .ser_heading p {
+    padding-bottom: 70px;
+  }
+  .about_img_box {
+    text-align: center;
+    width: 450px;
+    margin: auto;
+  }
+  .s_img {
+    height: 280px;
+  }
+  /* about section*/
+  .about_cont_box {
+    text-align: center;
+  }
+  .about_cont_box h1 {
+    font-size: 28px;
+    padding-top: 51px;
+    padding-bottom: 16px;
+  }
+  .about_1st_p {
+    padding-bottom: 0px;
+    font-size: 15px;
+    word-spacing: 2px;
+  }
+  .about_2nd_p {
+    padding-bottom: 25px !important;
+    line-height: 27px;
+    font-size: 15px;
+    word-spacing: 2px;
+  }
+  .about_img_box {
+    text-align: center;
+    width: 505px;
+    margin: auto;
+  }
+  .s_img {
+    height: 220px;
+    width: 475px;
+  }
+  .about_btnbx {
+    padding-bottom: 70px !important;
+  }
+  .a_button {
+    border: 1px solid black;
+    font-size: 14px;
+  }
+  /* work activities */
+  .work_section {
+    padding-bottom: 32px;
+  }
+
+  .sin_img {
+    width: 217px;
+  }
+  /* service sec 2 */
+  .services_2sec {
+    padding-bottom: 25px;
+  }
+  .simi_sr2 {
+    padding-bottom: 40px !important;
+  }
+  .item_icon i {
+    font-size: 45px;
+  }
+  .heading h1 {
+    font-size: 18px;
+    padding-left: 15px;
+  }
+  .bot_content P {
+    font-size: 15px;
+    padding-bottom: 16px;
+  }
+  /* portfolio section */
+  .portfolio_sec {
+    padding-bottom: 126px !important;
+  }
+  .bottom h1 {
+    font-size: 16px;
+    margin-bottom: 1px;
+  }
+  .title {
+    font-size: 13px;
+    margin-left: 27px;
+    margin-bottom: 7px;
+  }
+  .icons {
+    width: 63px;
+    height: 63px;
+    margin-top: 0px;
+    margin-left: -31px;
+  }
+  .icons li {
+    width: 52px;
+    height: 29px;
+  }
+  .icons li a i {
+    font-size: 18px;
+    padding: 5px;
+  }
+  .overlays {
+    bottom: 33px;
+    left: 0;
+    right: 0;
+    height: 71%;
+  }
+  .card_header:hover .overlays {
+    width: 20%;
+    height: 114px;
+  }
+  .simi_portfo {
+    padding-bottom: 15px;
+  }
+  /* card design */
+  .pricing_card_section {
+    padding-bottom: 60px;
+  }
+  .simi_card {
+    padding-bottom: 50px;
+  }
+  .topheding h1 {
+    font-size: 32px;
+    padding-left: 6px;
+  }
+  .top_textlog h2 {
+    font-size: 17px;
+  }
+  .card_span {
+    font-size: 15px;
+  }
+  .card_list_i li a {
+    font-size: 15px;
+    padding-left: 9px;
+  }
+  .card_button {
+    padding-left: 12px;
+    padding-bottom: 38px;
+  }
+  .card_btn {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #333333;
+  }
+  .cardicon {
+    padding-left: 8px;
+    padding-right: -3px;
+  }
+  .top_textlog {
+    margin-left: 11px;
+  }
+  /* nipro tamplete */
+  .niprotamplete_btn {
+    padding: 50px 0;
+    padding-left: 76px !important;
+  }
+  .nipro {
+    color: #333333;
+    font-size: 14px;
+  }
+  /* btm slider */
+  .btm_carousel_section {
+    padding-bottom: 55px;
+  }
+  .bslider_content h1 {
+    font-size: 15px;
+    padding-bottom: 6px;
+    margin: 0px;
+  }
+  .bslider_content h2 {
+    font-size: 14px;
+    padding-bottom: 7px;
+    margin: 0;
+  }
+  .bsliderbox {
+    padding-left: 17px;
+  }
+  .bslider_content p {
+    font-size: 13px !important;
+    padding-bottom: 3px;
+    margin-bottom: 0px;
+  }
+  .bsli_p1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px !important;
+    color: #8e8e8e !important;
+    padding-bottom: 10px !important;
+  }
+  .bslider_content {
+    padding-top: 25px !important;
+  }
+  .bslider_content {
+    padding: 0;
+  }
+  .bootm_slider_btn {
+    height: 234px;
+  }
+  .priviousbtn {
+    top: -151px;
+  }
+  .priviousbtn span {
+    color: black;
+    font-size: 13px;
+  }
+  .nextbtn {
+    top: 158px !important;
+    right: -35px !important;
+    transform: rotate(89deg);
+    text-transform: uppercase;
+  }
+  .nextbtn span {
+    color: black;
+    font-size: 13px;
+  }
+  .center_heigpeen {
+    margin-top: 113px;
+    margin-left: -1px;
+  }
+  .heigpeens {
+    width: 1px;
+    height: 14px;
+    margin-left: 6px;
+  }
+  /* contact */
+  .contact_form_section {
+    padding-bottom: 60px;
+    padding-top: 27px;
+  }
+  .contact_headi {
+    width: 173px;
+    margin-bottom: 45px;
+    margin-left: 233px;
+  }
+  .contact_headi h1 {
+    font-size: 25px;
+  }
+  .contact_btn {
+    margin-left: 250px;
+    margin-bottom: 16px;
+  }
+  .inputsec {
+    font-size: 14px;
+  }
+  /* footer */
+  .f_t_p p {
+    padding: 0 0px;
+    font-size: 14px;
+    margin-bottom: 0px;
+  }
+  .f_icons {
+    padding-left: 96px;
+    padding-bottom: 48px;
+  }
+  .icon_ul li a {
+    padding: 1px;
+  }
+  .icon_ul li a i {
+    padding: 6px;
+  }
+  .allcon {
+    border-top: 1px solid white;
+    padding-top: 43px;
+    padding-bottom: 0px;
+  }
+  .fpbl {
+    padding-right: 28px;
+  }
+  .btm_row_left_p {
+    font-size: 14px;
+  }
+  .fpbr {
+    padding-top: 4px;
+    padding-left: 31px;
+    padding-bottom: 20px;
+  }
+  .fblicon_ul li a {
+    margin-left: 2px;
+    font-size: 14px;
+    padding: 7px;
+  }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* slider */
+  .ccp {
+    left: -26px;
+  }
+  .ccn {
+    right: 177px;
+  }
+  .nar {
+    background-color: #333333 !important;
+    margin-left: 75px;
+    margin-top: -52px;
+  }
+  /* service section */
+  .similar_heading h1 {
+    font-size: 28px;
+  }
+  /* about section */
+  .about_cont_box h1 {
+    font-size: 29px;
+    padding-bottom: 12px;
+  }
+  .about_1st_p {
+    padding-bottom: 4px;
+  }
+  .about_2nd_p {
+    padding-bottom: 14px !important;
+  }
+  /* work activities */
+  .work_section {
+    padding-bottom: 32px;
+  }
+  .sin_img {
+    width: 298px;
+  }
+  /* portfolio section */
+  .portfolio_sec {
+    padding-bottom: 155px !important;
+  }
+  .icons {
+    width: 63px;
+    height: 63px;
+    margin-top: 0px;
+    margin-left: -31px;
+  }
+  .icons li {
+    width: 52px;
+    height: 29px;
+  }
+  .icons li a i {
+    font-size: 18px;
+    padding: 5px;
+  }
+  .overlays {
+    bottom: 58px;
+    left: 0;
+    right: 0;
+    height: 71%;
+  }
+  .card_header:hover .overlays {
+    width: 15%;
+    height: 120px;
+  }
+  .title {
+    margin-left: 48px;
+    font-size: 15px;
+  }
+  /* nipro tamplet */
+  .niprotamplete_btn {
+    padding: 50px 0;
+    padding-left: 141px;
+  }
+  /* carosel bttom */
+  .bootm_slider_btn {
+    height: 337px;
+  }
+  .nextbtn {
+    top: 214px;
+    right: -47px;
+  }
+  /* cantact */
+  .contact_headi {
+    margin-left: 168px;
+    margin-bottom: 48px;
+  }
+  .contact_headi h1 {
+    font-size: 27px;
+  }
+  .inputsec {
+    font-size: 15px;
+    margin-bottom: 31px;
+  }
+  .contact_btn {
+    margin-left: 198px;
+    margin-bottom: 8px;
+  }
+  /* footer */
+  .f_t_p p {
+    padding: 0 30px;
+  }
+  .f_icons {
+    padding-left: 0px;
+  }
+  .icon_ul li a {
+    padding: 3px;
+  }
+  .icon_ul li a i {
+    padding: 6px;
+  }
+  .fpbl {
+    padding-right: 127px;
+  }
+  .btm_row_left_p {
+    font-size: 14px;
+  }
+  .fpbr {
+    padding-top: 10px;
+    padding-left: 96px;
+  }
+  .fblicon_ul li a {
+    margin-left: 8px;
+    font-size: 15px;
+    padding: 7px;
+  }
+}
+
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* footer */
+  .f_icons {
+    padding-left: 30px;
+  }
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+  /* header */
+  .ccp span,
+  .ccn span {
+    font-size: 19px;
+  }
+  .nar {
+    margin-left: 104px;
+    margin-top: -38px;
+  }
+  .ccn {
+    right: 261px;
+  }
+  /* carousel bottom */
+  .bootm_slider_btn {
+    height: 360px;
+  }
+  .center_heigpeen {
+    margin-top: 185px;
+    display: flex;
+    transform: rotate(89deg);
+    text-transform: uppercase;
+  }
+  .nextbtn {
+    top: 214px;
+    right: -62px;
+    transform: rotate(89deg);
+    text-transform: uppercase;
+  }
+  /* contact */
+  .contact_headi {
+    margin-left: 293px;
+  }
+
+  .contact_btn {
+    margin-left: 321px;
+    margin-bottom: 16px;
+  }
+}
